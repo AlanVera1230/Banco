@@ -1,0 +1,14 @@
+.fondo {
+    background-image: linear-gradient(to left, rgba(86, 147, 70, 0.528), rgba(99, 22, 67, 0.527));
+    /*background-image: linear-gradient(to left, rgba(239, 255, 10, 0.623), rgb(17, 153, 243));
+    /*background-color: rgba(242, 240, 184, 0.464)*/
+}
+.divboton{
+    margin-top: 45px;
+    text-align:center;
+}
+
+.divboton2 {
+    margin-top: 160px;
+    text-align: center;
+}
